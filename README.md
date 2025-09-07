@@ -1,3 +1,3 @@
 # Futebol
 
-projeto em andamento
+projeto arquivado
